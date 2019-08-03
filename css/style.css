@@ -1,0 +1,37 @@
+.jumbotron{
+	margin-top: 20px;
+	background: transparent;
+}
+#equinox_title{
+	font-size: 50px;
+}
+.my-4{
+	align-content: center;
+}
+#get_started{
+	align-content: center;
+}
+.navbar{
+}
+.card{
+	margin: 40px;
+}
+#learnMore{
+	margin-right: 40px;
+}
+#downloads{
+	margin-top: 80%;
+	margin-bottom: 20px
+}
+.home-bottom-info-content {
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#footer-element{
+	padding-left: 40%;
+}
+#footer{
+	background-color: #DBDBDB;
+}
